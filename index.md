@@ -5,11 +5,13 @@ title: PSAR : Physical Security Applied to (R)IOT
 
 ## What is PSAR?
 
-PSAR is a research collaboration on IoT cyber-security between Inria and FU Berlin.
-The work planned in PSAR aims to complement the cybersecurity mechanisms tackled in the [RIOT-fp](https://future-proof-iot.github.io/RIOT-fp/about) and the [TinyPART](https://tinypart.github.io/TinyPART/) projects.
+PSAR is a research collaboration on IoT cyber-security, embodied as an associated team between Inria TRiBE and FU Berlin.
+
+The high-level goal of PSAR is to complement the cybersecurity mechanisms tackled in the Inria Challenge [RIOT-fp](https://future-proof-iot.github.io/RIOT-fp/about).
+
+PSAR quickly gave birth to -- and was subsumed under -- the french-german research project TinyPART, co-financed by ANR and BMBF. For more information about the output of this collaboration, please refer to the [TinyPART](https://tinypart.github.io/TinyPART/) website.
 
 
-__(SITE UNDER (RE)CONSTRUCTION)__
 
 
 
